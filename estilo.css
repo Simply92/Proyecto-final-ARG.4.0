@@ -1,0 +1,82 @@
+.div-img{
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+    background-image: url(https://randomuser.me/api/portraits/women/87.jpg);
+    
+}
+.nombre-principal{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 200;
+    font-size: 70px;
+    font-family: 'Tilt Warp', cursive;
+}
+h2{
+    font-family: 'Tilt Warp', cursive;
+    font-weight: 100;
+    font-size: 30px;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 400px;
+}
+.titulo{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.datos{
+    font-family:'Times New Roman';
+    text-align: center;
+}
+
+
+.ejemplo1{
+    width: 500px;
+    height: 400px;
+    display: inline-flex;
+    padding-right: 600px;
+}
+
+.campo{
+    width: 310px;
+    border-radius: 5px;
+    border: 1px solid #39c;
+    background-color: #def;
+   
+}
+
+.img-2{
+    margin-right: 10px;
+}
+.img-3{
+    margin-right: 10px;
+}
+.img-1{
+    margin-right: 10px;
+}
+body{
+    text-align: center;
+    background-image: url(https://i.pinimg.com/564x/59/6b/8f/596b8fed52b2cedb3addf527c150534c.jpg);
+}
+
+.iconos{
+    width: 40px;
+    height: 40px;
+}
+
+.Boton{
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    background-color: rgb(85, 167, 235);
+}
